@@ -1,0 +1,3 @@
+// Add inside the dependencies { } block of app/build.gradle, then Sync Now
+implementation 'androidx.recyclerview:recyclerview:1.3.2'
+// appcompat is already present in the default template (AppCompatActivity, AlertDialog)
